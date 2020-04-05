@@ -103,7 +103,7 @@ Key influential figures
 * Any incoming interaction IDs trigger the server to push out that data as a message to all devices in the network. 
 * The interaction IDs are temporarily stored for up to 24h such that they can reach phones that happen to be offline. 
 
-**The healthcare portal:**
+**The healthcare portal:** [Available here](https://www.mysharedair.se/)
 * The portal is built using next.js
 * A healthcare worker verifies themselves using BankID. They can then enter the random ID of the person who shall receive the test results. 
 * This information is then propagated through the Firebase server to the relevant user. 
