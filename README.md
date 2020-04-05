@@ -73,9 +73,9 @@ Key influential figures
 2. Use GPS in a safe way to trace places of transmission alongside people
 
 ## Demo Video
-[![MySharedAir](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![MySharedAir](https://youtu.be/Ite7J0jusb8)](https://youtu.be/Ite7J0jusb8)
+
 ## Tech Description
-6. Tech description
 
 **The solution is split into three pieces:** 
 1. The app installed on each person’s device
