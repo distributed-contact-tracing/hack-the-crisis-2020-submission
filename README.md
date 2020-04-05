@@ -108,6 +108,11 @@ Key influential figures
 * A healthcare worker verifies themselves using BankID. They can then enter the random ID of the person who shall receive the test results. 
 * This information is then propagated through the Firebase server to the relevant user. 
 
+## Github repos
+* The app: https://github.com/distributed-contact-tracing/contact-tracing-peer
+* The server: https://github.com/distributed-contact-tracing/flaming-service
+* The portal: https://github.com/distributed-contact-tracing/portal 
+
 ## Team description
 We are a group of current and former students at KTH specializing in fields such as data science, computer science and UI design.
 
