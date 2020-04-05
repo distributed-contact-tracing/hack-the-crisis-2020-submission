@@ -73,7 +73,7 @@ Key influential figures
 2. Use GPS in a safe way to trace places of transmission alongside people
 
 ## Demo Video
-[![MySharedAir](https://youtu.be/Ite7J0jusb8)](https://youtu.be/Ite7J0jusb8)
+[![MySharedAir](https://img.youtube.com/vi/Ite7J0jusb8/0.jpg)](https://youtu.be/Ite7J0jusb8)
 
 ## Tech Description
 
